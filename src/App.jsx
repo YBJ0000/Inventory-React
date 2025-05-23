@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import Tabs from './components/Tabs'
 
 const data = {
   vegetables: ['Carrot', 'Cucumber'],
